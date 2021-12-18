@@ -6,5 +6,13 @@ This analysis was conducted to gather key information on the workforce of a spec
 The second part of this analysis involved creating a table to show which employees are elible to be mentors in the company based on birth date and employment status at Pewlett-Hackard. This was achieved by querying PostgreSQL databases populated by company data using pgadmin 4.
 
 ## Results
+Based on the tables created, there are four key takeaways from the data:
 
+-In the near future, it would be wise for Pewlett-Hackard to look to hire 
+
+-
+
+-
+
+-
 ## Summary
